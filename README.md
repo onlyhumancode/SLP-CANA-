@@ -15,7 +15,9 @@
 ## 📂 Struktur Repository
   .
   ├── SLP_CANA.ipynb # Notebook utama (implementasi & eksperimen)
+  
   ├── SLP-ANAC.xlsx # Dataset/hasil pengolahan manual (Google Sheets)
+  
   └── README.md # Dokumentasi
 
 ---
