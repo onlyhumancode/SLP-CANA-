@@ -14,6 +14,7 @@
 
 ## 📂 Struktur Repository
   .
+  
   ├── SLP_CANA.ipynb # Notebook utama (implementasi & eksperimen)
   
   ├── SLP-ANAC.xlsx # Dataset/hasil pengolahan manual (Google Sheets)
@@ -24,8 +25,8 @@
 
 ## ⚙️ Requirements
   Install dependency berikut sebelum menjalankan:
-  ```bash
-  pip install numpy pandas matplotlib scikit-learn
+    ```bash
+    pip install numpy pandas matplotlib scikit-learn
 
 ---
 
