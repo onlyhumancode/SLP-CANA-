@@ -1,4 +1,4 @@
-# 🧠 Single Layer Perceptron (SLP) - Iris Dataset
+# Single Layer Perceptron (SLP) - Iris Dataset
 
   Project ini merupakan implementasi sederhana **Single Layer Perceptron (SLP)** menggunakan Python dan NumPy, dengan dataset **Iris** dari `sklearn.datasets`.  
   Dataset dimodifikasi agar hanya menggunakan 2 kelas (Setosa vs Versicolor), dan `petal width` diset ke nilai konstan sesuai deskripsi tugas.
@@ -35,17 +35,22 @@
 
 ## 🚀 Cara Menjalankan
   1. Clone repository:
+
+      ```bash
      
       git clone <repo-url>
        
       cd <repo-folder>
-      
+
   2. Jalankan notebook:
-     
+
+      ```bash   
       jupyter notebook SLP_CANA.ipynb
     
   3. Atau langsung jalankan script .py (jika sudah dipisah):
-     
+
+      ```bash
+      
       python perceptron.py
 
 ---
