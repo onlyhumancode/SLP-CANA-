@@ -46,12 +46,6 @@
 
       ```bash   
       jupyter notebook SLP_CANA.ipynb
-    
-  3. Atau langsung jalankan script .py (jika sudah dipisah):
-
-      ```bash
-      
-      python perceptron.py
 
 ---
 
